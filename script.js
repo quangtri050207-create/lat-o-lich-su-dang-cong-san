@@ -16,7 +16,7 @@ let currentQuestion = null;
 // Biến quản lý bộ đếm thời gian
 let mainTimerInterval = null;
 let reboundTimerInterval = null;
-let mainTimeLeft = 15;
+let mainTimeLeft = 30;
 let reboundTimeLeft = 10;
 let currentReboundTeamIndex = 0; // Index của nhóm cướp hiện tại
 let reboundTeamAnswerTimes = [5, 4, 3, 3]; // Thời gian trả lời cho từng nhóm cướp
@@ -298,8 +298,8 @@ function openQuestionModal() {
 
     modal.classList.add("active");
 
-    // Khởi động đồng hồ đếm ngược 15 giây của đội chính
-    mainTimeLeft = 15;
+    // Khởi động đồng hồ đếm ngược 30 giây của đội chính
+    mainTimeLeft = 30;
     document.getElementById("main-timer").innerText = mainTimeLeft;
     document.getElementById("main-timer").classList.remove("bg-danger");
     
@@ -314,7 +314,7 @@ function openQuestionModal() {
 
         if (mainTimeLeft <= 0) {
             clearInterval(mainTimerInterval);
-            handleMainTeamTimeout(); // Xử lý khi hết 15 giây
+            handleMainTeamTimeout(); // Xử lý khi hết 30 giây
         }
     }, 1000);
 }
