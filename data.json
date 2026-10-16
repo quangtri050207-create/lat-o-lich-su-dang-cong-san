@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "type": "speedup",
+    "typeName": "⚡ CÂU TĂNG TỐC",
+    "question": "Đại hội X của Đảng diễn ra trong bối cảnh nào sau đây?",
+    "image": "q1_code.png",
+    "options": [
+      "Đất nước đã trải qua 20 năm thực hiện công cuộc Đổi mới",
+      "Việt Nam vừa giành chiến thắng trong chiến tranh biên giới",
+      "Đất nước hoàn toàn đã trở thành nước công nghiệp hóa",
+      "Đảng Cộng sản Việt Nam vừa được thành lập"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "type": "normal",
+    "typeName": "CÂU HỎI THƯỜNG",
+    "question": "Trong các cụm từ sau, cụm nào KHÔNG thuộc nội dung chủ đề Đại hội X?",
+    "options": [
+      "Nâng cao năng lực lãnh đạo và sức chiến đấu của Đảng",
+      "Phát huy sức mạnh toàn dân tộc",
+      "Đẩy mạnh toàn diện công cuộc Đổi mới",
+      "Ưu tiên phát triển kinh tế nhà nước, thu hẹp kinh tế tư nhân"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 3,
+    "type": "normal",
+    "typeName": "CÂU HỎI THƯỜNG",
+    "question": "Theo chủ đề Đại hội X, mục tiêu phát triển được nhấn mạnh là sớm đưa nước ta ra khỏi tình trạng nào?",
+    "options": [
+      "Thiếu hụt nguồn lực",
+      "Kém phát triển",
+      "Chiến tranh",
+      "Mất ổn định chính trị"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 4,
+    "type": "normal",
+    "typeName": "CÂU HỎI THƯỜNG",
+    "question": "Trong các nhiệm vụ lớn của đất nước, nhiệm vụ được Đại hội X xác định là then chốt là:",
+    "options": [
+      "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước",
+      "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa",
+      "Xây dựng, chỉnh đốn Đảng",
+      "Phát triển giáo dục và đào tạo"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 5,
+    "type": "steal",
+    "typeName": "⚔️ CÂU CƯỚP ĐIỂM",
+    "question": "Quan điểm mới nổi bật của Đại hội X là cho phép đảng viên tham gia vào lĩnh vực nào?",
+    "image": "q5_hint.png",
+    "options": [
+      "Tham gia thành lập và quản lý kinh tế tư nhân",
+      "Bán đất công cho nhà nước",
+      "Mở rộng quân đội",
+      "Chỉ làm việc trong khu vực chính quyền"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 6,
+    "type": "lucky",
+    "typeName": "🎁 HỘP QUÀ MAY MẮN",
+    "question": "Để phát huy sức mạnh toàn dân tộc, vấn đề cơ bản Đảng phải giải quyết là gì?",
+    "options": [
+      "Hài hòa các loại lợi ích",
+      "Ưu tiên lợi ích Nhà nước",
+      "Bình quân hóa mọi thu nhập",
+      "Đặt lợi ích cá nhân lên trên hết"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 7,
+    "type": "normal",
+    "typeName": "CÂU HỎI THƯỜNG",
+    "question": "Theo tinh thần Đại hội X về phát huy sức mạnh toàn dân tộc, cách tiếp cận nào phù hợp nhất khi phát triển kinh tế gây ảnh hưởng đến môi trường và sinh kế của một bộ phận người dân?",
+    "options": [
+      "Ưu tiên tối đa hóa lợi nhuận doanh nghiệp vì đây là động lực trực tiếp thúc đẩy tăng trưởng kinh tế",
+      "Ưu tiên tuyệt đối lợi ích của người dân bị ảnh hưởng, bất kể tác động đến việc làm và hoạt động sản xuất",
+      "Điều chỉnh chính sách theo hướng dung hòa các lợi ích chính đáng, gắn phát triển kinh tế với bảo vệ môi trường, bảo đảm quyền lợi của người dân và tuân thủ pháp luật",
+      "Giữ nguyên chính sách vì mọi sự đánh đổi lợi ích đều là điều tất yếu trong quá trình phát triển"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 8,
+    "type": "bet",
+    "typeName": "🎲 CÂU ĐẶT CƯỢC",
+    "question": "Ba định hướng kinh tế ẩn sau ba hình ảnh trong dấu mốc quan trọng năm 2006 là:",
+    "images": ["q8_img1.png", "q8_img2.png", "q8_img3.png"],
+    "options": [
+      "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa; Đẩy mạnh công nghiệp hóa - hiện đại hóa gắn với phát triển kinh tế tri thức; Tích cực hội nhập kinh tế quốc tế",
+      "Đóng cửa kinh tế; phát triển nông nghiệp cổ truyền; kiểm soát chặt ngoại thương",
+      "Tăng cường quân sự; mở rộng canh tác rừng; khuyến khích xuất khẩu lao động",
+      "Mở rộng phân phối bằng tiền mặt; bỏ qua hội nhập; giảm viện trợ"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 9,
+    "type": "normal",
+    "typeName": "CÂU HỎI THƯỜNG",
+    "question": "Bốn mảnh ghép: 'THẾ KỶ CỦA ĐẠI DƯƠNG - BIỂN ĐÔNG - ĐỊA KINH TẾ – ĐỊA CHÍNH TRỊ - TÀI NGUYÊN BIỂN' gợi đến chủ trương chiến lược nào của Đảng được xác định với tầm nhìn đến năm 2020? Hãy cho biết chiến lược này được nhắc đến trong văn bản nào?",
+    "options": [
+      "Nghị quyết 09-NQ/TW ngày 09/3/2007 về chiến lược biển Việt Nam đến 2020",
+      "Nghị quyết 21-NQ/TW ngày 30/1/2008 về thể chế kinh tế thị trường",
+      "Nghị quyết 15/2008/QH12 về địa giới hành chính Hà Nội",
+      "Nghị quyết 23-NQ/TW về xây dựng Đảng"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 10,
+    "type": "mine",
+    "typeName": "💣 CÂU DÍNH MÌN",
+    "question": "Từ khóa 'thể chế – thị trường – định hướng xã hội chủ nghĩa' gợi nhắc đến Nghị quyết nào của Đảng?",
+    "image": "q10_img.jpeg",
+    "options": [
+      "Nghị quyết số 21-NQ/TW ngày 30/1/2008 về tiếp tục hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa",
+      "Nghị quyết 09-NQ/TW về chiến lược biển Việt Nam",
+      "Nghị quyết 15/2008/QH12 về điều chỉnh địa giới hành chính",
+      "Nghị quyết 28-NQ/TW về kinh tế tư nhân"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 11,
+    "type": "normal",
+    "typeName": "CÂU HỎI THƯỜNG",
+    "question": "Dựa vào thông tin: thời gian 2008; Quốc hội khóa XII; bản đồ địa giới hành chính Hà Nội kể từ ngày 01/08/2008. Đây là Nghị quyết nào?",
+    "images": ["q11_img1.png", "q11_img2.png", "q11_img3.png"],
+    "options": [
+      "Nghị quyết số 15/2008/QH12 của Quốc hội khóa XII về điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh, thành phố có liên quan",
+      "Nghị quyết số 09-NQ/TW về chiến lược biển Việt Nam",
+      "Nghị quyết số 21-NQ/TW về thể chế kinh tế thị trường",
+      "Nghị quyết 17/NQ-CP về cải cách hành chính"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 12,
+    "type": "normal",
+    "typeName": "CÂU HỎI THƯỜNG",
+    "question": "Nghị quyết Trung ương nào được ban hành vào ngày 30/01/2008 và có nội dung tiếp tục hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa?",
+    "options": [
+      "Nghị quyết số 21-NQ/TW",
+      "Nghị quyết số 09-NQ/TW",
+      "Nghị quyết số 15/2008/QH12",
+      "Nghị quyết số 22-NQ/TW"
+    ],
+    "correct": 0
+  }
+]
